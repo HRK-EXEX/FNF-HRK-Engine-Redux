@@ -1,6 +1,6 @@
 # Friday Night Funkin' - HRK Engine Redux
-This engine will implement some features inherited from my old Engine.
-And add some new things...?
+This engine will implement some features inherited from my old Engine.  
+And add some new things...? 
 ...in the future.
 
 <details>
