@@ -1,5 +1,7 @@
 # Friday Night Funkin' - HRK Engine Redux
-tesetsetsetstestetsstete
+This engine will implement some features inherited from my old Engine.
+And add some new things...?
+...in the future.
 
 <details>
 <summary>Original description is here</summary>
